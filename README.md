@@ -16,7 +16,7 @@ I refactored the data to make the worksheet more efficient. After refactoring th
 
 https://user-images.githubusercontent.com/67720719/89136633-b74ab980-d502-11ea-917f-269d863acc7d.png
 
-
+https://user-images.githubusercontent.com/67720719/89136713-0bee3480-d503-11ea-9685-f3fd911b2e8f.png
 
 
 Steve should recommend that his parents invest in the ENPH and RUN stocks because they are the only two stocks listed that had a positive return in both 2017 and 2018. 
