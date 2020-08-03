@@ -1,4 +1,4 @@
-VBA Challenge
+Stock Analysis VBA Challenge
 
 Purpose
 
@@ -13,6 +13,9 @@ https://github.com/jmajma327/stock_analysis/issues/11
 https://user-images.githubusercontent.com/67720719/89139342-5a540100-d50c-11ea-8838-23f3ca2eeacb.png
 
 I refactored the data to make the worksheet more efficient. After refactoring the code, it made a difference the time the code desecrating the data to .515625 s for 2017 and .40625s for 2018. Steve and his parents now have all the information to make conscious and effective decisions on which stocks to purchase. 
+
+https://user-images.githubusercontent.com/67720719/89136633-b74ab980-d502-11ea-917f-269d863acc7d.png
+
 
 
 
