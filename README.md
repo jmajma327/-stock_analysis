@@ -19,7 +19,11 @@ https://user-images.githubusercontent.com/67720719/89136633-b74ab980-d502-11ea-9
 https://user-images.githubusercontent.com/67720719/89136713-0bee3480-d503-11ea-9685-f3fd911b2e8f.png
 
 
-Steve should recommend that his parents invest in the ENPH and RUN stocks because they are the only two stocks listed that had a positive return in both 2017 and 2018. 
+Steve should recommend that his parents invest in the ENPH and RUN stocks because they are the only two stocks listed that had a positive return in both 2017 and 2018.
+
+https://user-images.githubusercontent.com/67720719/89136767-48ba2b80-d503-11ea-8db6-2c1dfec83c81.png
+
+
 
 
 
