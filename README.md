@@ -23,16 +23,14 @@ Steve should recommend that his parents invest in the ENPH and RUN stocks becaus
 
 https://user-images.githubusercontent.com/67720719/89136767-48ba2b80-d503-11ea-8db6-2c1dfec83c81.png
 
-
-
-
-
-
-
+https://user-images.githubusercontent.com/67720719/89136786-6b4c4480-d503-11ea-9869-abb8db8ffea8.png
 
 Summary
+
 What are the advantages or disadvantages or refactoring code?
+
 The advantages of refactoring the code is that it makes it more efficient to gather information for your analysis.  It also runs the code in faster time because of the variables that were removed or commented throughout the code.
+
 A disadvantage to refactoring the code is that it is time consuming and could affect your ability to complete the task for the client.
 
 
